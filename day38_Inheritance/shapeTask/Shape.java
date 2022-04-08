@@ -2,6 +2,7 @@ package day38_Inheritance.shapeTask;
 
 public class Shape {
     public String name;
+    static double pi=3.14;
 
     public Shape(String name) {
         this.name = name;
@@ -14,10 +15,12 @@ public class Shape {
         return 0;
     }
 
-    @Override
-    public String toString() {
-        return "Shape{" +
-                "name='" + name + '\'' +
-                '}';
-    }
+
+//    public String toString() {
+//        return "Shape{" +
+//                "name='" + name + '\'' +
+//                "area='" + area() + '\'' +
+//                "perimeter='" + perimeter() + '\'' +
+//                '}';
+//    }
 }

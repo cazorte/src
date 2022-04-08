@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="" />
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
+      <change afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/ShapeObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Shape.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -29,6 +37,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="266LNEuUrs71CCgKcLTI9QQe0XP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -39,9 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaPractice/src" />
-    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.PhoneShop">
+  <component name="RunManager" selected="Application.ShapeObjects">
     <configuration name="PersonObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.PersonObjects" />
       <module name="JavaProgramming" />
@@ -68,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day32_Constructor.Test" />
+    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Inheritance.shapeTask.ShapeObjects" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day32_Constructor.*" />
+          <option name="PATTERN" value="day38_Inheritance.shapeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestIphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day33_Statics.TestIphone" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Constructor.Test" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day33_Statics.*" />
+          <option name="PATTERN" value="day32_Constructor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeObjects" />
         <item itemvalue="Application.PhoneShop" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Zoo" />
         <item itemvalue="Application.PersonObjects" />
-        <item itemvalue="Application.TestIphone" />
       </list>
     </recent_temporary>
   </component>
@@ -178,11 +189,87 @@
       <workItem from="1649278966682" duration="136000" />
       <workItem from="1649284410383" duration="4517000" />
       <workItem from="1649319387069" duration="2693000" />
-      <workItem from="1649365363314" duration="699000" />
+      <workItem from="1649365363314" duration="1926000" />
+      <workItem from="1649370121888" duration="1488000" />
+      <workItem from="1649448146665" duration="2428000" />
+      <workItem from="1649450878499" duration="4940000" />
+      <workItem from="1649459921949" duration="705000" />
     </task>
+    <task id="LOCAL-00001" summary="first attend">
+      <created>1649450577844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649450577844</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first attend">
+      <created>1649450730455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649450730455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first attend">
+      <created>1649450932535</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649450932535</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first attend">
+      <created>1649451034264</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649451034264</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first attend">
+      <created>1649452256194</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649452256194</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first attend">
+      <created>1649452495852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649452495852</updated>
+    </task>
+    <task id="LOCAL-00007" summary="first attend">
+      <created>1649452552544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649452552544</updated>
+    </task>
+    <task id="LOCAL-00008" summary="first attend">
+      <created>1649459663864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649459663865</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first attend" />
+    <option name="LAST_COMMIT_MESSAGE" value="first attend" />
   </component>
 </project>
