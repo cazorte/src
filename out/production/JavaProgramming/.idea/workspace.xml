@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day27_WrapperClasses/WrapperClassesIntro.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="266LNEuUrs71CCgKcLTI9QQe0XP" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaPractice/src" />
+    <property name="settings.editor.selected.configurable" value="editor.reader.mode" />
+  </component>
+  <component name="RunManager" selected="Application.PhoneShop">
+    <configuration name="PersonObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.PersonObjects" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day35_Encapsulation.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day32_Constructor.Test" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day32_Constructor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIphone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day33_Statics.TestIphone" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day33_Statics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.animalTask.Zoo" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day36_Inheritance.animalTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhoneShop" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.PersonObjects" />
+        <item itemvalue="Application.TestIphone" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="" />
+      <created>1646739048436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646739048436</updated>
+      <workItem from="1646739049729" duration="33000" />
+      <workItem from="1646739325666" duration="8677000" />
+      <workItem from="1646770719535" duration="1713000" />
+      <workItem from="1647238206973" duration="3032000" />
+      <workItem from="1647244914779" duration="16905000" />
+      <workItem from="1647324634123" duration="4590000" />
+      <workItem from="1647331267179" duration="6839000" />
+      <workItem from="1647348327309" duration="2625000" />
+      <workItem from="1647374493686" duration="1713000" />
+      <workItem from="1647377209118" duration="3033000" />
+      <workItem from="1647409690028" duration="6804000" />
+      <workItem from="1647427230097" duration="82000" />
+      <workItem from="1647436331114" duration="10000" />
+      <workItem from="1647515217942" duration="5109000" />
+      <workItem from="1647585419984" duration="10000" />
+      <workItem from="1647585459735" duration="2196000" />
+      <workItem from="1647707800130" duration="641000" />
+      <workItem from="1647847339573" duration="72000" />
+      <workItem from="1647851264846" duration="9485000" />
+      <workItem from="1647892752938" duration="3707000" />
+      <workItem from="1647932184739" duration="11860000" />
+      <workItem from="1647979034775" duration="3943000" />
+      <workItem from="1648017257193" duration="10697000" />
+      <workItem from="1648045015239" duration="7000" />
+      <workItem from="1648047945812" duration="144000" />
+      <workItem from="1648049085074" duration="650000" />
+      <workItem from="1648110433688" duration="801000" />
+      <workItem from="1648115001899" duration="3585000" />
+      <workItem from="1648150416621" duration="2723000" />
+      <workItem from="1648158506512" duration="3010000" />
+      <workItem from="1648190606187" duration="86000" />
+      <workItem from="1648392822795" duration="1555000" />
+      <workItem from="1648449305101" duration="3301000" />
+      <workItem from="1648472647304" duration="11000" />
+      <workItem from="1648472704857" duration="848000" />
+      <workItem from="1648496745034" duration="3542000" />
+      <workItem from="1648574428798" duration="6435000" />
+      <workItem from="1648627814761" duration="1927000" />
+      <workItem from="1648635629947" duration="74000" />
+      <workItem from="1648719921314" duration="4050000" />
+      <workItem from="1648813721072" duration="29000" />
+      <workItem from="1648814893308" duration="2979000" />
+      <workItem from="1648923839110" duration="52000" />
+      <workItem from="1649063297841" duration="1811000" />
+      <workItem from="1649066014136" duration="69000" />
+      <workItem from="1649066579251" duration="3545000" />
+      <workItem from="1649147438643" duration="708000" />
+      <workItem from="1649199154840" duration="51000" />
+      <workItem from="1649203308324" duration="2559000" />
+      <workItem from="1649233927857" duration="3109000" />
+      <workItem from="1649278966682" duration="136000" />
+      <workItem from="1649284410383" duration="4517000" />
+      <workItem from="1649319387069" duration="2693000" />
+      <workItem from="1649365363314" duration="699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
