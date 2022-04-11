@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
-      <change afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/ShapeObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/day38_Inheritance/shapeTask/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day39_Recap/shapeTask/ShapeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/ShapeObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day39_Recap/shapeTask/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day09_IfElseStatement/MinNumber.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaPractice/src" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.ShapeObjects">
-    <configuration name="PersonObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day35_Encapsulation.encapsulation.PersonObjects" />
+  <component name="RunManager" selected="Application.ShapeObjects (1)">
+    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day35_Encapsulation.encapsulation.*" />
+          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
+    <configuration name="ShapeObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.shapeTask.ShapeObjects" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day37_Inheritance.phoneTask.*" />
+          <option name="PATTERN" value="day39_Recap.shapeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeObjects (1)" />
         <item itemvalue="Application.ShapeObjects" />
         <item itemvalue="Application.PhoneShop" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.PersonObjects" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +193,13 @@
       <workItem from="1649370121888" duration="1488000" />
       <workItem from="1649448146665" duration="2428000" />
       <workItem from="1649450878499" duration="4940000" />
-      <workItem from="1649459921949" duration="1105000" />
+      <workItem from="1649459921949" duration="1289000" />
+      <workItem from="1649465099450" duration="134000" />
+      <workItem from="1649495889814" duration="924000" />
+      <workItem from="1649541451801" duration="132000" />
+      <workItem from="1649542009757" duration="1000" />
+      <workItem from="1649626166321" duration="5085000" />
+      <workItem from="1649711689299" duration="404000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -253,7 +257,35 @@
       <option name="project" value="LOCAL" />
       <updated>1649459663865</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first attend">
+      <created>1649461164002</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649461164002</updated>
+    </task>
+    <task id="LOCAL-00010" summary="first attend">
+      <created>1649633459761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649633459761</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first attend">
+      <created>1649634031605</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649634031605</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first attend">
+      <created>1649634613493</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649634613493</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +303,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first attend" />
     <option name="LAST_COMMIT_MESSAGE" value="first attend" />
   </component>
