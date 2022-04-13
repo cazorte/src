@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
-      <change afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +193,8 @@
       <workItem from="1649495889814" duration="924000" />
       <workItem from="1649541451801" duration="132000" />
       <workItem from="1649542009757" duration="1000" />
-      <workItem from="1649626166321" duration="1687000" />
+      <workItem from="1649626166321" duration="5085000" />
+      <workItem from="1649711689299" duration="801000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -262,7 +259,35 @@
       <option name="project" value="LOCAL" />
       <updated>1649461164002</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first attend">
+      <created>1649633459761</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649633459761</updated>
+    </task>
+    <task id="LOCAL-00011" summary="first attend">
+      <created>1649634031605</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649634031605</updated>
+    </task>
+    <task id="LOCAL-00012" summary="first attend">
+      <created>1649634613493</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649634613493</updated>
+    </task>
+    <task id="LOCAL-00013" summary="first attend">
+      <created>1649712239112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649712239112</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,6 +305,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first attend" />
     <option name="LAST_COMMIT_MESSAGE" value="first attend" />
   </component>

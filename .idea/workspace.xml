@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
+      <change afterPath="$PROJECT_DIR$/day40_FinalKeyword/EncapsulationReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day40_FinalKeyword/ProtectedAccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utilities/AccessModifiers_Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day39_Recap/shapeTask/ShapeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/ShapeObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day39_Recap/shapeTask/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/day39_Recap/shapeTask/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +52,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaPractice/src" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Application.ShapeObjects (1)">
+  <component name="RunManager" selected="Application.Cydeo">
+    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day39_Recap.cydeoTask.Cydeo" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day39_Recap.cydeoTask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PhoneShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day37_Inheritance.phoneTask.PhoneShop" />
       <module name="JavaProgramming" />
@@ -105,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day36_Inheritance.animalTask.Zoo" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day36_Inheritance.animalTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.ShapeObjects (1)" />
         <item itemvalue="Application.ShapeObjects" />
         <item itemvalue="Application.PhoneShop" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +201,11 @@
       <workItem from="1649541451801" duration="132000" />
       <workItem from="1649542009757" duration="1000" />
       <workItem from="1649626166321" duration="5085000" />
-      <workItem from="1649711689299" duration="404000" />
+      <workItem from="1649711689299" duration="7943000" />
+      <workItem from="1649730406823" duration="287000" />
+      <workItem from="1649786604938" duration="2054000" />
+      <workItem from="1649886515740" duration="2849000" />
+      <workItem from="1649892588940" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -285,7 +291,35 @@
       <option name="project" value="LOCAL" />
       <updated>1649634613493</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first attend">
+      <created>1649712239112</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1649712239112</updated>
+    </task>
+    <task id="LOCAL-00014" summary="first attend">
+      <created>1649716841215</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649716841215</updated>
+    </task>
+    <task id="LOCAL-00015" summary="first attend">
+      <created>1649717554954</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649717554954</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first attend">
+      <created>1649720536418</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1649720536418</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
