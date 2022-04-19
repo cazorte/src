@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
-      <change afterPath="$PROJECT_DIR$/day41_Exceptions/Checked_vs_Unchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day41_Exceptions/FinallyBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day41_Exceptions/MultiCatchBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day41_Exceptions/TryCatchBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day42_Exceptions/MorningWorkOut.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day40_FinalKeyword/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day40_FinalKeyword/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day42_Exceptions/DisadvantageOfThrowsKeyword2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day42_Exceptions/DisadvantageOfThrowsKeyword2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +50,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../liveReviewSession" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Application.MorningWorkOut">
+  <component name="RunManager" selected="Application.DisadvantageOfThrowsKeyword2">
     <configuration name="Checked_vs_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day41_Exceptions.Checked_vs_Unchecked" />
       <module name="JavaProgramming" />
@@ -70,25 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_Recap.cydeoTask.Cydeo" />
+    <configuration name="DisadvantageOfThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Exceptions.DisadvantageOfThrowsKeyword2" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_Recap.cydeoTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FinalVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_FinalKeyword.FinalVariable" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day40_FinalKeyword.*" />
+          <option name="PATTERN" value="day42_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +83,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day42_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Exceptions.TryCatchBlocks" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day41_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DisadvantageOfThrowsKeyword2" />
+        <item itemvalue="Application.TryCatchBlocks" />
         <item itemvalue="Application.MorningWorkOut" />
         <item itemvalue="Application.Checked_vs_Unchecked" />
         <item itemvalue="Application.Zoo" />
-        <item itemvalue="Application.FinalVariable" />
-        <item itemvalue="Application.Cydeo" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +210,8 @@
       <workItem from="1650117705178" duration="24000" />
       <workItem from="1650143444391" duration="3741000" />
       <workItem from="1650233439518" duration="1278000" />
-      <workItem from="1650308463955" duration="1454000" />
+      <workItem from="1650308463955" duration="2671000" />
+      <workItem from="1650320277461" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -344,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649927971642</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="first attend">
+      <created>1650321285842</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1650321285842</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
