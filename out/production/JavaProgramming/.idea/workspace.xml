@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="first attend">
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/Throw_vs_Throws.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day42_Exceptions/DisadvantageOfThrowsKeyword2.java" beforeDir="false" afterPath="$PROJECT_DIR$/day42_Exceptions/DisadvantageOfThrowsKeyword2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../liveReviewSession" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Application.DisadvantageOfThrowsKeyword2">
+  <component name="RunManager" selected="Application.Throw_vs_Throws">
     <configuration name="Checked_vs_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day41_Exceptions.Checked_vs_Unchecked" />
       <module name="JavaProgramming" />
@@ -90,6 +91,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Throw_vs_Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Abstraction.Throw_vs_Throws" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day43_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TryCatchBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day41_Exceptions.TryCatchBlocks" />
       <module name="JavaProgramming" />
@@ -103,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day40_FinalKeyword.Zoo" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day40_FinalKeyword.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Throw_vs_Throws" />
         <item itemvalue="Application.DisadvantageOfThrowsKeyword2" />
         <item itemvalue="Application.TryCatchBlocks" />
         <item itemvalue="Application.MorningWorkOut" />
         <item itemvalue="Application.Checked_vs_Unchecked" />
-        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +212,12 @@
       <workItem from="1650143444391" duration="3741000" />
       <workItem from="1650233439518" duration="1278000" />
       <workItem from="1650308463955" duration="2671000" />
-      <workItem from="1650320277461" duration="2822000" />
+      <workItem from="1650320277461" duration="6067000" />
+      <workItem from="1650408433236" duration="3281000" />
+      <workItem from="1650492382345" duration="632000" />
+      <workItem from="1650542553751" duration="630000" />
+      <workItem from="1650737021504" duration="83000" />
+      <workItem from="1650754896331" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -346,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650321285842</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="first attend">
+      <created>1650332934161</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1650332934161</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
