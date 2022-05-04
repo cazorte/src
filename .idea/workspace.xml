@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="Throw_vs_Throws">
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/car/Audi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/car/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/car/Tesla.java" afterDir="false" />
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="Abstraction car task">
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/EmployeeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/WildAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/PropertiesOfInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day33_Statics/EmployeeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day33_Statics/EmployeeObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day43_Abstraction/car/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/day43_Abstraction/car/CarShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -47,19 +65,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/day45_Abstraction" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../liveReviewSession" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
-  <component name="RunManager" selected="Application.Throw_vs_Throws">
-    <configuration name="Checked_vs_Unchecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Exceptions.Checked_vs_Unchecked" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="day45_Abstraction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EmployeeObjects">
+    <configuration name="DisadvantageOfThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day42_Exceptions.DisadvantageOfThrowsKeyword2" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Exceptions.*" />
+          <option name="PATTERN" value="day42_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisadvantageOfThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Exceptions.DisadvantageOfThrowsKeyword2" />
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_Abstraction.employeeTask.EmployeeObjects" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Exceptions.*" />
+          <option name="PATTERN" value="day43_Abstraction.employeeTask.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeObjects" />
         <item itemvalue="Application.Throw_vs_Throws" />
         <item itemvalue="Application.DisadvantageOfThrowsKeyword2" />
         <item itemvalue="Application.TryCatchBlocks" />
         <item itemvalue="Application.MorningWorkOut" />
-        <item itemvalue="Application.Checked_vs_Unchecked" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +258,10 @@
       <workItem from="1650843439551" duration="2283000" />
       <workItem from="1650851152727" duration="680000" />
       <workItem from="1650875781693" duration="1796000" />
-      <workItem from="1650921418741" duration="621000" />
+      <workItem from="1650921418741" duration="6155000" />
+      <workItem from="1651016032795" duration="2116000" />
+      <workItem from="1651042542151" duration="7462000" />
+      <workItem from="1651676995456" duration="6108000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -373,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650843470659</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Abstraction car task">
+      <created>1650924497962</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1650924497962</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -395,6 +439,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="first attend" />
     <MESSAGE value="Throw_vs_Throws" />
-    <option name="LAST_COMMIT_MESSAGE" value="Throw_vs_Throws" />
+    <MESSAGE value="Abstraction car task" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction car task" />
   </component>
 </project>

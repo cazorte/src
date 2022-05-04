@@ -8,7 +8,7 @@ public class CarShop {
         // we can not create object from Abstract class, because abstract class is not concrete
 
 
-        Honda honda = new Honda("Accord", "Black", 2019, 30000);
+        Honda honda = new Honda("Accord", "Black", "Black", 2019,30000);
 
         Audi audi = new Audi("Q7", "Blue", 2020, 45000);
 
