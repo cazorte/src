@@ -1,29 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="Abstraction car task">
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/EmployeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day43_Abstraction/employeeTask/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Flyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Parrot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day44_Abstraction/animalTask/WildAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day45_Abstraction/PropertiesOfInterface.java" afterDir="false" />
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="Abstraction vs Interface">
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/Extends_vs_Implements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Pentagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/ShapeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day45_Abstraction/shape/Volume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day33_Statics/EmployeeObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/day33_Statics/EmployeeObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day43_Abstraction/car/CarShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/day43_Abstraction/car/CarShop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/JavaProgramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day33_Statics/EmployeeObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/day33_Statics/EmployeeObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/JavaProgramming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/production/JavaProgramming/.idea/misc.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +54,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -87,7 +109,20 @@
       <recent name="day45_Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeObjects">
+  <component name="RunManager" selected="Application.ShapeObject">
+    <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Abstraction.Shape.Cylinder" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day45_Abstraction.shape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DisadvantageOfThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day42_Exceptions.DisadvantageOfThrowsKeyword2" />
       <module name="JavaProgramming" />
@@ -114,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MorningWorkOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Exceptions.MorningWorkOut" />
+    <configuration name="ShapeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day45_Abstraction.shape.ShapeObject" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Exceptions.*" />
+          <option name="PATTERN" value="day45_Abstraction.shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,26 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryCatchBlocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Exceptions.TryCatchBlocks" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day41_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShapeObject" />
+        <item itemvalue="Application.Cylinder" />
         <item itemvalue="Application.EmployeeObjects" />
         <item itemvalue="Application.Throw_vs_Throws" />
         <item itemvalue="Application.DisadvantageOfThrowsKeyword2" />
-        <item itemvalue="Application.TryCatchBlocks" />
-        <item itemvalue="Application.MorningWorkOut" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +283,8 @@
       <workItem from="1650921418741" duration="6155000" />
       <workItem from="1651016032795" duration="2116000" />
       <workItem from="1651042542151" duration="7462000" />
-      <workItem from="1651676995456" duration="6108000" />
+      <workItem from="1651676995456" duration="13476000" />
+      <workItem from="1651843855756" duration="6600000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -417,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650924497962</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Abstraction vs Interface">
+      <created>1651698059503</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1651698059503</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +470,7 @@
     <MESSAGE value="first attend" />
     <MESSAGE value="Throw_vs_Throws" />
     <MESSAGE value="Abstraction car task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstraction car task" />
+    <MESSAGE value="Abstraction vs Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstraction vs Interface" />
   </component>
 </project>
