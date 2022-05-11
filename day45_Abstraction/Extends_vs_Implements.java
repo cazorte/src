@@ -1,18 +1,40 @@
 package day45_Abstraction;
 
-public class Extends_vs_Implements {
+//extends:
+class C{
 
-    interface a{
+}
 
-    }
+class A{
 
-    interface b {
+}
 
-    }
+class B extends A{
+
+}
 
 
+interface Z{
+
+}
+
+interface X{
+
+}
+
+interface Y extends X, Z{
+
+}
 
 
+//implements
+
+class D implements X,Y,Z{
+
+}
+
+
+public class Extends_vs_Implements extends A implements X, Y, Z{
 
 
 }
