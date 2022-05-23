@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="Interface is finished">
-      <change afterPath="$PROJECT_DIR$/day46_Polymorphism/PolymorphismIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day47_Polymorphism/ReferenceTypeCastings.java" afterDir="false" />
+    <list default="true" id="4b189c79-bc57-4e13-85ef-8721dfc6862e" name="Changes" comment="polymorphismTypeCasting">
+      <change afterPath="$PROJECT_DIR$/day47_Polymorphism/EncapsulationReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day47_Polymorphism/InheritanceReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day47_Polymorphism/PolymorphismPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day47_Polymorphism/PolymorphismPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day48_Collections/ListIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day49_Collections/QueuePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day49_Collections/SetInterfacePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day49_Collections/SetPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day50_Collections_Map/IterablePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day50_Collections_Map/IterablePractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day50_Collections_Map/ListSetPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day50_Collections_Map/RemoveEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day50_Collections_Map/RemovePalindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/FrequencyOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/IteratingTheMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day51_Map/MapPractice4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day45_Abstraction/Extends_vs_Implements.java" beforeDir="false" afterPath="$PROJECT_DIR$/day45_Abstraction/Extends_vs_Implements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day35_Encapsulation/encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day35_Encapsulation/encapsulation/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProgramming/day35_Encapsulation/encapsulation/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProgramming/day35_Encapsulation/encapsulation/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +91,13 @@
       <recent name="day45_Abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeObject">
-    <configuration name="Cylinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Abstraction.Shape.Cylinder" />
+  <component name="RunManager" selected="Application.FrequencyOfCharacters">
+    <configuration name="FrequencyOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Map.FrequencyOfCharacters" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day45_Abstraction.shape.*" />
+          <option name="PATTERN" value="day51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisadvantageOfThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Exceptions.DisadvantageOfThrowsKeyword2" />
+    <configuration name="IterablePractice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day50_Collections_Map.IterablePractice2" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Exceptions.*" />
+          <option name="PATTERN" value="day50_Collections_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Abstraction.employeeTask.EmployeeObjects" />
+    <configuration name="IteratingTheMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Map.IteratingTheMap" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43_Abstraction.employeeTask.*" />
+          <option name="PATTERN" value="day51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Abstraction.shape.ShapeObject" />
+    <configuration name="MapClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Map.MapClasses" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day45_Abstraction.shape.*" />
+          <option name="PATTERN" value="day51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Throw_vs_Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day43_Abstraction.Throw_vs_Throws" />
+    <configuration name="MapPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day51_Map.MapPractice3" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day43_Abstraction.*" />
+          <option name="PATTERN" value="day51_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShapeObject" />
-        <item itemvalue="Application.Cylinder" />
-        <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.Throw_vs_Throws" />
-        <item itemvalue="Application.DisadvantageOfThrowsKeyword2" />
+        <item itemvalue="Application.FrequencyOfCharacters" />
+        <item itemvalue="Application.MapPractice3" />
+        <item itemvalue="Application.IteratingTheMap" />
+        <item itemvalue="Application.MapClasses" />
+        <item itemvalue="Application.IterablePractice2" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +274,18 @@
       <workItem from="1651926062102" duration="62000" />
       <workItem from="1651946774285" duration="825000" />
       <workItem from="1652215145246" duration="2434000" />
-      <workItem from="1652254732028" duration="637000" />
+      <workItem from="1652254732028" duration="5049000" />
+      <workItem from="1652306615867" duration="2247000" />
+      <workItem from="1652337815940" duration="1331000" />
+      <workItem from="1652365942875" duration="39000" />
+      <workItem from="1652430651301" duration="1022000" />
+      <workItem from="1652564255940" duration="64000" />
+      <workItem from="1652715149846" duration="1455000" />
+      <workItem from="1652736480870" duration="2319000" />
+      <workItem from="1652769145172" duration="12403000" />
+      <workItem from="1653083306292" duration="1840000" />
+      <workItem from="1653128301132" duration="8041000" />
+      <workItem from="1653292412963" duration="6014000" />
     </task>
     <task id="LOCAL-00001" summary="first attend">
       <created>1649450577844</created>
@@ -424,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651860776635</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="polymorphismTypeCasting">
+      <created>1652256454884</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652256454884</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,6 +487,7 @@
     <MESSAGE value="Abstraction car task" />
     <MESSAGE value="Abstraction vs Interface" />
     <MESSAGE value="Interface is finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface is finished" />
+    <MESSAGE value="polymorphismTypeCasting" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphismTypeCasting" />
   </component>
 </project>
